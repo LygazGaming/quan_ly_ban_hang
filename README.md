@@ -10,5 +10,4 @@
 4. Chạy: `node server.js`
 
 ## Nhiệm vụ
-- Team 1: Tính năng sản phẩm (branch: feature/san-pham)
-- Team 2: Tính năng đơn hàng (branch: feature/don-hang)
+- Tính năng sản phẩm (branch: feature/san-pham)
